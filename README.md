@@ -29,6 +29,6 @@ Create stunning video animations using React and Remotion! 🎬
 
 Modify the sequences in the `src/sequences` directory to create your own stunning visual journey through time and space.
 
-## 🌟 Made with Replit
+## 🌟 Made with Bolt
 
-Built and powered by Replit - where coding meets creativity! 
+Refined with Replit - where innovation meets execution! ⚡ 
